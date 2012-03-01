@@ -1,0 +1,5 @@
+An idea for a small programming project for kids to do, a simple L-grammar built using Coffeescript and HTML5 Canvas.
+
+Short program, demonstrates recursion, some exposure to rotations and translation.
+
+Should run in any browser.  Just need tree.js and tree.html to run.
