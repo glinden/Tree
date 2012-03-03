@@ -27,3 +27,5 @@ drawRecursively = (ctx, x, y, w, h, a) ->
 initDemo = () ->
     draw()
     document.onmousedown = draw
+
+window.onload = initDemo

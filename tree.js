@@ -37,3 +37,4 @@ initDemo = function() {
   draw();
   return document.onmousedown = draw;
 };
+window.onload = initDemo;
